@@ -1,5 +1,5 @@
 # Perceptron-Classifier
-A vanilla and averaged Perceptron Classifiers for categorizing Hotel Reviews as True/Fake and Positive/Negative.
+Vanilla and averaged Perceptron Classifiers for categorizing Hotel Reviews as True/Fake and Positive/Negative.
 
 ## Overview
 Perceptron classifiers (vanilla and averaged) to identify hotel reviews as either true or fake, and either positive or negative using the word tokens as features from the text. 
