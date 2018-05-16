@@ -57,6 +57,7 @@ True 0.84 0.88 0.86<br>
 Pos 0.93 0.91 0.92<br>
 Fake 0.87 0.84 0.85<br>
 Mean F1: 0.8890<br>
+
 {
 'Neg': {'fp': 14, 'fn': 11, 'tp': 149}, <br>
 'True': {'fp': 26, 'fn': 20, 'tp': 140}, <br>
@@ -65,6 +66,6 @@ Mean F1: 0.8890<br>
 }<br>
 
 ## Accuracy
-The vanilla percpetron is 88.59% accurate in classifying test data calculated using above F1 measure.
+The vanilla percpetron is 88.59% accurate in classifying test data calculated using above F1 measure.<br>
 The averaged percpetron is 88.90% accurate in classifying test data calculated using above F1 measure.
 
